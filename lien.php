@@ -1,0 +1,17 @@
+<?php
+
+
+sql => dofactory.com/sql
+		sql.sh/cours
+
+
+Docsfy
+
+lien htaccess en symfony => docs.bolt.cm/3.7/how to/making-sure-htaccess-works
+
+snakify.org/fr/lessons/for-loop-range
+
+https:/css-tricks.com/the-shapes-of-cs
+w3schools.com/jsref/jsref_regexp-newline.asp
+
+creer virtual host => elisabeth.pointal.org/doc/code/server/lamp/creer_des_virtualhosts
