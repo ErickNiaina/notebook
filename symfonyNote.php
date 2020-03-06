@@ -117,3 +117,25 @@
 
 
 		Recuperer POST DE NGROK dans un fichier =>$_POST simplement
+
+
+
+
+
+
+		MERISE : methode de conception des données
+
+		EXEMPLE:
+
+						(1,1)                                         (0,n)
+			ETUDIANT -----------------------reside---------------------- DEPARTEMENT
+
+
+			*Un etudiant reside dans 1 et 1 seul departement 
+				->cardinalité(1,1)
+
+			*Un departement a pour resident 0 ou N etudiants 
+				->cardinalite(0,n)
+
+
+		C est à dire id_department devient clé etrangère du table etudiant

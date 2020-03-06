@@ -28,5 +28,6 @@ dr|rwx|rwx|rwx
 
 le premier rwx = droit utilisateur
 la deuxieme rwx = droit de groupe
-et le dernier = droit d autre utilisateur 
+et le dernier = droit d autre utilisateur
+ 
 
