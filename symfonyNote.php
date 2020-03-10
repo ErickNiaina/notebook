@@ -139,3 +139,8 @@
 
 
 		C est à dire id_department devient clé etrangère du table etudiant
+
+
+
+	Redirection de twig -----------> controller
+		{{render(controller('App\\controller\\DefaultController::functionDeController'))}}
