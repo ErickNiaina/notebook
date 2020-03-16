@@ -29,5 +29,8 @@ dr|rwx|rwx|rwx
 le premier rwx = droit utilisateur
 la deuxieme rwx = droit de groupe
 et le dernier = droit d autre utilisateur
+
+NGROK :c est un logiciel couplé à un service web qui va vous permettre de créer un tunnel à partir 
+		d internet vers un port de votre choix sur votre machine locale(TCP ou UDP)
  
 

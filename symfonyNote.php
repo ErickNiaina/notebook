@@ -144,3 +144,6 @@
 
 	Redirection de twig -----------> controller
 		{{render(controller('App\\controller\\DefaultController::functionDeController'))}}
+
+
+		
