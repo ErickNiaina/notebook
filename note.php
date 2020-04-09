@@ -34,5 +34,6 @@ NGROK :c est un logiciel couplé à un service web qui va vous permettre de cré
 		d internet vers un port de votre choix sur votre machine locale(TCP ou UDP)
 
 
- 
+ mysqldump -u root -p beta > jerry.sql exporter un bdd mysql en linux command
+
 
