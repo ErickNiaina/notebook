@@ -148,12 +148,7 @@
 
 
 
-	Lorsque tu définis une contrainte de clé étrangère, tu peux déterminer l'action que doit faire MySQL en cas de suppression (DELETE) ou mise à jour (UPDATE) :
-
-CASCADE : si je tente de supprimer la clé primaire, alors supprime tous les enregistrements avec l\'id associé
-SET NULL : si je tente de supprimer la clé primaire, alors met NULL dans les enregistrements avec l\'id associé
-NO ACTION : si je tente de supprimer la clé primaire, laisse les enregistrements dépendants avec l\'id associé (perte d\'intégrité)
-RESTRICT : si je tente de supprimer la clé primaire, empêche la suppression si id référencée ailleurs
+	
 
 
 		

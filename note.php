@@ -36,4 +36,6 @@ NGROK :c est un logiciel couplé à un service web qui va vous permettre de cré
 
  mysqldump -u root -p beta > jerry.sql exporter un bdd mysql en linux command
 
+ 
+
 
